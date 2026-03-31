@@ -3,7 +3,7 @@
 - 🌱 I’m currently studing Software Development at the TUS Moylish Campus, Co.Limerick
 - 📫 How to reach me -> fabiollo2006@gmail.com
 - ⚡ Hobbies: I also have a interest in games development.
-- Portfolio Website: https://https://fabiollo.com
+- Portfolio Website: https://fabiollo.com
 
 <!---
 Fabiollooo/Fabiollooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
