@@ -1,5 +1,5 @@
 # - About Me:
-- Hi, I’m @Fabiollooo (Fabian)<br>👀 I’m interested in Programming with many languages such as html, php, c#, Sql, and more.<br>- I’m currently studing Software Development at the TUS Moylish Campus, Co.Limerick<br>- How to reach me -> fabiollo2006@gmail.com<br>- Hobbies: I also have a interest in games development.<br><br>Portfolio Website: https://fabiollo.com
+- Hi, I’m @Fabiollooo (Fabian)<br>- I’m interested in Programming with many languages such as html, php, c#, Sql, and more.<br>- I’m currently studing Software Development at the TUS Moylish Campus, Co.Limerick<br>- How to reach me -> fabiollo2006@gmail.com<br>- Hobbies: I also have a interest in games development.<br><br>Portfolio Website: https://fabiollo.com
 
 
 # - Tech Stack:
